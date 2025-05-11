@@ -1,1 +1,1 @@
-number guessing game followung the given constrants on freecodecamp
+number guessing game following the given constraints on freecodecamp
